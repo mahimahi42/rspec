@@ -16,6 +16,3 @@ class Board
         return ret
     end
 end
-
-b = Board.new
-puts b
